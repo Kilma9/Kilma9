@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## Currently I am working on multiple personal projects in order to learn new stuff and eventuall to actually build something useable and/or cool...
 <!--
 **Kilma9/Kilma9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
