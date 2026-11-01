@@ -1,5 +1,13 @@
 ## Hi there 👋
 ## Currently I am working on multiple personal projects in order to learn new stuff and eventuall to actually build something useable and/or cool...
+
+An example of my Summer 2026 work is - 
+https://play.google.com/store/apps/details?id=com.tvshowsquiz.premium
+https://play.google.com/store/apps/details?id=com.kilma9.romewarfare
+
+I would appreciate any feedback in regards of these apps/games
+
+New project I plan is some Windows aimed Steam game
 <!--
 **Kilma9/Kilma9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
