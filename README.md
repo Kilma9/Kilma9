@@ -5,6 +5,7 @@ I have started to build android apps to help my familly automate smart home - li
 An example of my Summer 2026 work is a follows. I hope to partially cover dev costs in a form of AI tools and especially huge amount of my time invested. 
 
 https://play.google.com/store/apps/details?id=com.tvshowsquiz.premium
+
 https://play.google.com/store/apps/details?id=com.kilma9.romewarfare
 
 I would appreciate any feedback in regards of these apps/games
