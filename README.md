@@ -2,7 +2,7 @@
 ## Currently I am working on multiple personal projects in order to learn new stuff and eventuall to actually build something useable and/or cool...
 I have started to build android apps to help my familly automate smart home - like dedicated app to control Minecraft server hosted on my Rpi 5 in a docker container or a self hosted home dashboard fetching data from family google calendar, kids school timetable and their homeworks from program Bakalari and other usefull info.
 
-An example of my Summer 2026 work is a follows. I hope to partially cover dev costs in a form of AI tools and especially huge amount of my time invested. 
+An example of my Summer/Fall 2026 work is as follows.
 
 https://play.google.com/store/apps/details?id=com.tvshowsquiz.premium
 
